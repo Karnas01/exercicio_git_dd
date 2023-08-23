@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 O mundo não vai acabar!!!
+=======
+Hahaha o mundo vai acabar!!!!
+>>>>>>> c6b7c2525a2250846f855d77d0bf55b626db5cef
